@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#box{
+    width: 70%;
+     padding: 10px;
+    margin: 40px;
+}
+ 
+#image{
+    margin-top: 10px;
+     background-color: azure;
+    width: 60px;
+    padding: 20px;
+    font-weight: 400;
+    padding-bottom: 0px;
+    height: 40px;
+    text-decoration:line-through;
+    font-style: italic;
+    font-size: x-large;
+    margin-left: 40px;
+     
+}
+#user-input{
+    
+    width:50%;
+    padding: 10px;
+    
+}
+#user-input input{
+    border:1px black solid;
+    padding: 10px;
+    width: fit-content;
+}
+
+#btn{
+    
+    color:white;
+    margin: 10px;
+    background-color:green;
+    border: none;
+    padding: 10px;
+
+}
